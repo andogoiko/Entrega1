@@ -60,7 +60,7 @@
 
 - Links o enlaces: [texto enlazado](link)
 
-- código: poner el texto entre comillas `tal que así` o al principio de un párrafo 4 espacios en blanco
+- código: poner el texto entre acentos graves `tal que así` o al principio de un párrafo 4 espacios en blanco
 
 - añadir imágenes: ![nombre de la imagen](link de la imagen)
 

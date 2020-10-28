@@ -58,6 +58,8 @@
 
 - Elementos en línea: *para cursiva* o _para cursiva_ y **negrita** o __negrita__ también ***cursiva y negrita*** o ___cursiva y negrita___
 
+- Subrayar: colocar un texto entre u y /u
+
 - Links o enlaces: [texto enlazado](link)
 
 - código: poner el texto entre acentos graves `tal que así` o al principio de un párrafo 4 espacios en blanco

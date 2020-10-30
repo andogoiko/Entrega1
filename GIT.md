@@ -1,6 +1,6 @@
 # `Que es git`
 
-Git es un software de control de versiones que utiliza lenguaje C. Su propósito es llevar registro de los cambios en archivos del ordenador y coordinar el trabajo que varias personas realizan sobre archivos compartidos. Esta herramienta normalmente es utilizada en ingeniería de software, aun así muchas empresas alrededor del mundo la utilizan para administrar el flujo del trabajo y trabajar en proyectos diferentes
+Git es un software de control de versiones que utiliza lenguaje C. Su propósito es llevar registro de los cambios en archivos del ordenador y coordinar el trabajo que varias personas realizan sobre archivos compartidos. Esta herramienta normalmente es utilizada en ingeniería de software, aun así muchas empresas alrededor del mundo la utilizan para administrar el flujo del trabajo y trabajar en proyectos diferentes.
 
 # `Las ventajas de usar GIT`
 
